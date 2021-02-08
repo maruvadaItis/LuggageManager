@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentBottom="true"
+    android:layout_centerVertical="true"
+    tools:context=".ScanQRActivity">
+
+
+    <Button
+        android:id="@+id/scan_btn"
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="146dp"
+        android:layout_marginBottom="638dp"
+        android:background="@color/bg_register"
+        android:text="Scan QR"
+        android:textColor="@color/colorWhite" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="150dp"
+        android:background="@android:color/black" />
+
+    <TextView
+        android:id="@+id/disp"
+        android:layout_width="398dp"
+        android:layout_height="485dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="6dp"
+        android:layout_marginBottom="23dp"
+        android:isScrollContainer="true"
+        android:scrollbars="vertical"
+        android:text=""
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="24sp" />
+</RelativeLayout>

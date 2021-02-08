@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "909931253593",
+    "firebase_url": "https://luggagemanager-98ea2.firebaseio.com",
+    "project_id": "luggagemanager-98ea2",
+    "storage_bucket": "luggagemanager-98ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909931253593:android:19a366dc85461687",
+        "android_client_info": {
+          "package_name": "com.example.luggagemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909931253593-t28a5isu1lf7hc6bfdl944ldn3jhehkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luggagemanager",
+            "certificate_hash": "b0dc0d97571c59611c832cfc2bdbab32610c7800"
+          }
+        },
+        {
+          "client_id": "909931253593-nelbcrs79d1ujk075rpl0juj5a85h68n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtte-eQiAhsg4fy2R1kfCZFgLrWPBwnEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909931253593-nelbcrs79d1ujk075rpl0juj5a85h68n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
